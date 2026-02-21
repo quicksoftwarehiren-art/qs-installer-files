@@ -1,1 +1,1 @@
-https://github.com/quicksoftwarehiren-art/qs-installer-files/releases/download/v1.1/QS.main.zip
+https://github.com/quicksoftwarehiren-art/qs-installer-files/releases/download/v1.0/QS.main.zip
